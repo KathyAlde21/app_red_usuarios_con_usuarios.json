@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Red De Usuarios</string>
+    <!-- activity_main.xml -->
+    <string name="message">Mensaje</string>
+    <!-- item_user.xml -->
+    <string name="user_name_placeholder">Nombre del Usuario</string>
+    <string name="user_email_placeholder">correo@ejemplo.com</string>
+</resources>
